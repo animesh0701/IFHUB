@@ -7,7 +7,7 @@ import { mobile } from "../responsive";
 const Container = styled.div`
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.5)),
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(0, 0, 0, 0.5)),
     url("https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt1023fb25cc08e41a/62c84aa82690e04031415a5b/Argentina-2022-world-cup-kit.jpg")
       center;
   display: flex;
